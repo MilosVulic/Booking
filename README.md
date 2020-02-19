@@ -1,2 +1,2 @@
 # Booking-backend
-Booking apartments backend in java, spring 5
+Booking apartments backend in java, Spring 5
